@@ -201,6 +201,9 @@ td {
         justify-content: space-between;
         font-size: 23px;
     }
+    .header-container a {
+        font-size: 23px;
+    }
     .logo {
         margin-left: 30px;
     }
