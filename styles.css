@@ -331,8 +331,8 @@ td {
         height: 50px;
         font-size: 23px;
     }
-    .definition p {
-        font-size   : 23px;
+    .definition p, .save p {
+        font-size: 23px;
     }
     .button-row button {
         width: 45px;
