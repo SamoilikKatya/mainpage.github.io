@@ -392,16 +392,12 @@ button {
     border-radius: 50px;
     background-color: #8CBDF9;
 }
-
-@media (hover: hover) { 
-    button:hover {
-        transform: scale(1.05);
-        background-color: transparent;
-        border: 2px solid #8CBDF9;
-        color: #8CBDF9;
-    }
-  }
-
+button:hover {
+    transform: scale(1.05);
+    background-color: transparent;
+    border: 2px solid #8CBDF9;
+    color: #8CBDF9;
+}
 button:focus {
     background-color: #8CBDF9;
     transform: scale(1.05);
